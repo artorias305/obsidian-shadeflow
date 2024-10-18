@@ -35,3 +35,5 @@ Shadeflow includes custom fonts to ensure a consistent appearance across all dev
 - **Inter**: For the interface elements.
 - **Geist**: For standard text.
 - **Geist Mono**: For code blocks.
+
+This theme is inspired by [nexxel's website](https://www.nexxel.dev/)
