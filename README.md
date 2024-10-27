@@ -1,17 +1,11 @@
 # Shadeflow Obsidian Theme
 
-**Shadeflow** is a minimalistic black-and-white theme for [Obsidian](https://obsidian.md), designed to offer a clean, distraction-free experience. With a focus on simplicity and high contrast, it’s perfect for users who prefer a monochrome aesthetic. The theme includes custom fonts and a balanced typography for optimal readability.
+**Shadeflow** is a minimalistic black-and-white theme for [Obsidian](https://obsidian.md), designed to offer a clean, distraction-free experience. With a focus on simplicity and high contrast, it’s perfect for users who prefer a monochrome aesthetic.
 
 ## Preview
 
-![Dark Mode Preview](./images/dark-preview.png)
-![Light Mode Preview](./images/light-preview.png)
-
-## Features
-- **Monochrome Color Scheme:** Pure black and white palette in both light and dark modes.
-- **Minimalist Design:** Simple, clean layout with subtle elements.
-- **Custom Fonts:** Bundled with `Inter` for the interface, `Geist` for text, and `Geist Mono` for code.
-- **Optimized Typography:** Balanced heading sizes, line heights, and paragraph spacing for a smooth reading experience.
+![Dark Mode Preview](./images/dark-full.png)
+![Light Mode Preview](./images/light-full.png)
 
 ## Installation
 
