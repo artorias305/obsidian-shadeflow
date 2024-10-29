@@ -4,8 +4,8 @@
 
 ## Preview
 
-![Dark Mode Preview](./images/dark-full.png)
-![Light Mode Preview](./images/light-full.png)
+![Dark Mode Preview](./dark-full.png)
+![Light Mode Preview](./light-full.png)
 
 ## Installation
 
