@@ -9,17 +9,11 @@
 
 ## Installation
 
-### 1. Via Obsidian Settings
 1. Open **Obsidian**.
 2. Navigate to **Settings** > **Appearance**.
 3. Scroll down to **Themes** and click on **Manage**.
 4. Search for **Shadeflow** and click **Install**.
 5. After installation, activate the theme.
-
-### 2. Manual Installation
-1. Download the theme from the [GitHub repository](https://github.com/yourusername/shadeflow).
-2. Unzip the file and place the theme folder in your vault under `.obsidian/themes/Shadeflow`.
-3. Go to **Settings** > **Appearance** and select **Shadeflow** as your active theme.
 
 ## Custom Fonts
 
