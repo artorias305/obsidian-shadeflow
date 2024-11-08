@@ -12,6 +12,10 @@
 	--accent-h: 0;
 	--accent-s: 0%;
 	--accent-l: 100%;
+	--text-on-accent: black;
+	--slider-track-background: white;
+	--slider-thumb-border-color: black;
+	--toggle-thumb-color: black;
 	--background-primary: rgb(10, 10, 10);
 	--background-secondary: rgb(10, 10, 10);
 	--background-primary-alt: rgb(10, 10, 10);
@@ -54,6 +58,8 @@
 	--accent-h: 240;
 	--accent-s: 2%;
 	--accent-l: 12%;
+	--slider-track-background: black;
+	--slider-thumb-border-color: black;
 	--background-primary: rgb(245, 245, 245);
 	--background-secondary: rgb(245, 245, 245);
 	--background-primary-alt: rgb(245, 245, 245);
