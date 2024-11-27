@@ -50,8 +50,6 @@
 	--h2-weight: 500;
 	--he-weight: 500;
 	--text-selection: #007bcf;
-	--link-decoration: none;
-	--link-external-decoration: none;
 }
 
 .theme-light {
@@ -87,8 +85,6 @@
 	--h2-weight: 500;
 	--he-weight: 500;
 	--text-selection: #007bcf;
-	--link-decoration: none;
-	--link-external-decoration: none;
 	--link-color: #000000;
 	--link-external-color: #000000;
 }
